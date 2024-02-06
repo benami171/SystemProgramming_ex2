@@ -1,0 +1,11 @@
+False
+True
+True
+10
+10
+True
+True
+20
+-1
+12
+True
